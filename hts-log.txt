@@ -1,0 +1,63 @@
+HTTrack3.49-5 launched on Tue, 21 Oct 2025 09:08:27 at https://htmldemo.net/bucker/bucker/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://htmldemo.net/bucker/bucker/index.html -O "/home/hoyindamola/websites/catchybakery" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A100000000000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:08:27	Warning: 	* security warning: maximum bandwidth limited to 10000000 to avoid server overload
+09:10:49	Error: 	"Not Found" (404) at link https://htmldemo.net/bucker/bucker/Replace_with_your_PAGE_URL (from https://htmldemo.net/bucker/bucker/index.html)
+09:11:39	Warning: 	Warning: store text/html without scan: /home/hoyindamola/websites/catchybakery/gmpg.org/xfn/.html
+09:11:39	Warning: 	Warning: store text/html without scan: /home/hoyindamola/websites/catchybakery/gmpg.org/xfn/intro.html
+09:11:39	Warning: 	Warning: store text/html without scan: /home/hoyindamola/websites/catchybakery/gmpg.org/xfn/faq.html
+09:11:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/vendor/modernizr-3.11.2.min.js
+09:11:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/bg/hero-banner-shape.png
+09:11:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/product/product1.png
+09:11:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/bg/banner2.png
+09:11:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/bg/banner-fullwidth1.png
+09:11:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/blog/blog2.png
+09:11:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/blog/blog3.png
+09:11:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/others/meta-img3.png
+09:11:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/vendor/jquery-3.6.0.min.js
+09:11:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/others/shipping1.png
+09:11:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/vendor/jquery-migrate-3.3.2.min.js
+09:11:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/vendor/bootstrap.bundle.min.js
+09:11:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/owl.carousel.min.js
+09:11:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/slick.min.js
+09:11:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/wow.min.js
+09:11:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/jquery.nice-select.js
+09:11:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/jquery.magnific-popup.min.js
+09:11:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/jquery.scrollup.min.js
+09:11:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/jquery.zoom.min.js
+09:11:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/jquery-ui.min.js
+09:11:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/main.js
+09:11:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/bg/featured-banner1.png
+09:11:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/bg/hero-bg2.png
+09:11:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/bg/featured-banner3.png
+09:11:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/bg/banner3.png
+09:11:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/bg/banner5.png
+09:11:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/bg/banner-fullwidth2.png
+09:11:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/others/breadcrumbs-bg.png
+09:11:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/bg/about-bg.png
+09:11:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/others/team1.png
+09:11:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/others/team2.png
+09:11:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/blog/blog-sticky.png
+09:11:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/blog/blog6.png
+09:11:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/blog/blog-small1.png
+09:11:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/img/others/contact-form-bg-shape.png
+09:11:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/js/ajax-mail.js
+09:11:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/fonts/ionicons.eot?v=2.0.0
+09:12:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/fonts/Pe-icon-7-stroke.eot?
+09:12:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://htmldemo.net/bucker/bucker/assets/fonts/Pe-icon-7-stroke.eot?d7yf1v
+09:12:09	Warning: 	HTML file (138973 bytes) retransferred due to lack of cache: https://htmldemo.net/bucker/bucker/index-2.html
+09:12:10	Warning: 	Warning: store text/css without scan: /home/hoyindamola/websites/catchybakery/gmpg.org/xfn/default.css
+09:12:10	Error: 	"Not Found" (404) at link https://htmldemo.net/bucker/bucker/assets/css/images/ui-icons_444444_256x240.png (from https://htmldemo.net/bucker/bucker/assets/css/jquery-ui.min.css)
+09:12:10	Error: 	"Not Found" (404) at link https://htmldemo.net/bucker/bucker/assets/css/images/ui-icons_555555_256x240.png (from https://htmldemo.net/bucker/bucker/assets/css/jquery-ui.min.css)
+09:12:10	Error: 	"Not Found" (404) at link https://htmldemo.net/bucker/bucker/assets/css/images/ui-icons_ffffff_256x240.png (from https://htmldemo.net/bucker/bucker/assets/css/jquery-ui.min.css)
+09:12:10	Error: 	"Not Found" (404) at link https://htmldemo.net/bucker/bucker/assets/css/images/ui-icons_777620_256x240.png (from https://htmldemo.net/bucker/bucker/assets/css/jquery-ui.min.css)
+09:12:10	Error: 	"Not Found" (404) at link https://htmldemo.net/bucker/bucker/assets/css/images/ui-icons_cc0000_256x240.png (from https://htmldemo.net/bucker/bucker/assets/css/jquery-ui.min.css)
+09:12:10	Error: 	"Not Found" (404) at link https://htmldemo.net/bucker/bucker/assets/css/images/ui-icons_777777_256x240.png (from https://htmldemo.net/bucker/bucker/assets/css/jquery-ui.min.css)
+
+HTTrack Website Copier/3.49-5 mirror complete in 3 minutes 43 seconds : 176 links scanned, 209 files written (12822184 bytes overall) [5507959 bytes received at 24699 bytes/sec], 6089788 bytes transferred using HTTP compression in 88 files, ratio 19%, 5.9 requests per connection
+(7 errors, 45 warnings, 0 messages)
